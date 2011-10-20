@@ -1,4 +1,10 @@
 function varargout = demo(varargin)
+% Reference: 
+% Kuan Li, Zhi Lu, Wenyin Liu, Jianping Yin
+% Cytoplasm and nucleus segmentation in cervical smear images using Radiating GVF Snake
+% Pattern Recognition, 2011 
+% doi:10.1016/j.patcog.2011.09.018
+% 
 % demo MATLAB code for demo.fig
 %      demo, by itself, creates a new demo or raises the existing
 %      singleton*.
