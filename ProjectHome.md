@@ -1,0 +1,1 @@
+MATLAB implementation of RGVF Snake aiming at accurate extraction of both the nucleus and cytoplasm from a single-cell cervical smear images. The details can be referred to http://dx.doi.org/10.1016/j.patcog.2011.09.018
